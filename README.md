@@ -1,5 +1,6 @@
 # Presentación
 Buen día. Mi nombre es César Carrasco Vargas.
+<br>
 Actualmente estudio la carrera de analista programador en Inacap, Sede Maipú.
 No tengo experiencia laboral en el área de programación, pero sí lo que he aprendido en clases.
 Tengo experiencia laboral en otras áreas, sé cómo trabajar en equipo y me gustan los nuevos desafíos.
